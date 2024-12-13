@@ -1,1 +1,1 @@
-# bank
+# test application “bank” in java
